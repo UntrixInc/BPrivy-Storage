@@ -1,4 +1,5 @@
 BPrivy-Desktop
 ==============
 
-Desktop Service for BPrivy
+Storage Service for BPrivy.
+Runs on NodeJS.
